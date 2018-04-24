@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EspressoExample</string>
+
+    <!-- Strings related to login -->
+    <string name="error_empty_email">Debes ingresar tu correo electrónico.</string>
+    <string name="error_login_failed">Email no registrado.</string>
+</resources>
