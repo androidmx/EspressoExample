@@ -5,6 +5,8 @@ import android.support.design.widget.TextInputLayout;
 import android.support.test.rule.ActivityTestRule;
 import android.support.test.runner.AndroidJUnit4;
 
+import com.ggg.espressoexample.login.LoginActivity;
+
 import org.hamcrest.Description;
 import org.hamcrest.Matcher;
 import org.junit.Rule;

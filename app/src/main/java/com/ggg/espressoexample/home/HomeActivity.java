@@ -1,10 +1,13 @@
-package com.ggg.espressoexample;
+package com.ggg.espressoexample.home;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 
-public class HomeActivity extends AppCompatActivity {
+import com.ggg.espressoexample.login.LoginActivity;
+import com.ggg.espressoexample.R;
+
+public class HomeActivity extends AppCompatActivity{
 
     private TextView tvEmail;
 
